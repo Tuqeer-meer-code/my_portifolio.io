@@ -5,15 +5,15 @@ Here's the template of a JSON translation file:
 ```json
 {
   // Personal Information
-  "name": "Aladdine Abdou", // Full name (first name and last name)
-  "description": "Software Imagineer", // Your professional title or role (e.g., Software Engineer)
+  "name": "Tuqeer Khan", // Full name (first name and last name)
+  "description": "Flutter Developer", // Your professional title or role (e.g., Software Engineer)
   "subDescription": "Flutter Enthusiast", // A brief description of your interests or focus
 
   // Contact Details
   "contacts": [
     {
       "tooltip": "Github", // Tooltip displayed when hovering or long-pressing the contact icon button
-      "url": "https://github.com/AladdineDev", // URL to open when the contact icon button is tapped, accepts various URL schemes (sms, tel, mailto, https, file)
+      "url": "https://github.com/Tuqeer-meer-code", // URL to open when the contact icon button is tapped, accepts various URL schemes (sms, tel, mailto, https, file)
       "icon": {
         "assetName": "assets/images/logos/software-development/github.svg", // SVG asset path, can be obtained from https://github.com/chouhan-rahul/icons_plus/tree/main/lib/src. If the codePoint and the fontFamily are used, this property must be null.
         "codePoint": "0xefb7", // Unicode code point for the icon prefixed with "0x" for hexadecimal, can be obtained from https://github.com/chouhan-rahul/icons_plus/tree/main/lib/src. If the assetName is used, this property must be null.
@@ -28,12 +28,12 @@ Here's the template of a JSON translation file:
   "resumes": [
     {
       "languageCode": "en", // Language code matching one defined in "languages" key
-      "url": "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing" // URL to open when the corresponding resume language tile is tapped
+      "url": "https://drive.google.com/file/d/1isIaVrw-Y6GiWLI3D_pmTZjtLjuILgAJ/view?usp=sharing" // URL to open when the corresponding resume language tile is tapped
     }
   ],
 
   // About Me
-  "aboutDescription": "Hello! I'm Aladdine, an apprentice developer and third-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical expericence to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.", // about text that is displayed in "About Me" section
+  "aboutDescription": "Hi! I'm Tuqeer Khan, an apprentice developer specializing in mobile app development. Passionate about the mobile ecosystem, Experienced in Authentication | REST API | Offline Database | UI Design | State Management | Web Sockets.\nI aspire to put my skills to work on inspiring and challenging projects.", // about text that is displayed in "About Me" section
 
   // Experiences
   "experiences": [

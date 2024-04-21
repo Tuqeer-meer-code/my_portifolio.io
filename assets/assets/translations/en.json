@@ -1,11 +1,11 @@
 {
-    "name": "Aladdine Abdou",
+    "name": "Tuqeer Khan",
     "description": "Mobile App Developer",
-    "subDescription": "Flutter & Python Enthusiast",
+    "subDescription": "Flutter & Swift Enthusiast",
     "contacts": [
         {
             "tooltip": "Github",
-            "url": "https://github.com/AladdineDev",
+            "url": "https://github.com/Tuqeer-meer-code",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -23,7 +23,7 @@
         },
         {
             "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/aladdine-dev",
+            "url": "https://www.linkedin.com/in/tuqeer-khan-008324211/",
             "icon": {
                 "codePoint": "0xeffb",
                 "fontFamily": "FontAwesome",
@@ -31,8 +31,8 @@
             }
         },
         {
-            "tooltip": "aladdine.abdou@gmail.com",
-            "url": "mailto:aladdine.abdou@gmail.com",
+            "tooltip": "tuqeer.khanzada@gmail.com",
+            "url": "mailto:tuqeer.khanzada@gmail.com",
             "icon": {
                 "codePoint": "0xeaad",
                 "fontFamily": "FontAwesome",
@@ -40,8 +40,8 @@
             }
         },
         {
-            "tooltip": "+33 7 82 54 34 70",
-            "url": "tel:+33782543470",
+            "tooltip": "+92 308 29 70 603",
+            "url": "tel:+923082970603",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome",
@@ -52,14 +52,14 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1isIaVrw-Y6GiWLI3D_pmTZjtLjuILgAJ/view?usp=sharing"
         },
         {
             "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/13t62MynE9GavlyrtHNM1ShdkdJT0bc0B/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1isIaVrw-Y6GiWLI3D_pmTZjtLjuILgAJ/view?usp=sharing"
         }
     ],
-    "aboutDescription": "Hi! I'm Aladdine, an apprentice developer and fourth-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical experience to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.",
+    "aboutDescription": "Hi! I'm Tuqeer Khan, an apprentice developer specializing in mobile app development. Passionate about the mobile ecosystem, Experienced in Authentication | REST API | Offline Database | UI Design | State Management | Web Sockets.\nI aspire to put my skills to work on inspiring and challenging projects.",
     "experiences": [
         {
             "role": "Mobile App Developer",

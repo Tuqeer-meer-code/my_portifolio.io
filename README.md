@@ -7,7 +7,7 @@ Flutter Portfolio – by [@tuqeer khan](https://github.com/Tuqeer-meer-code)
 [![Flutter 3](https://img.shields.io/badge/Flutter-3.19-02569b.svg?style=flat-square&logo=flutter&logoColor=13b9fd)](https://flutter.dev/)
 [![Dart 3](https://img.shields.io/badge/Dart-3.3-0175c2.svg?style=flat-square&logo=dart&logoColor=13b9fd)](https://dart.dev/)
 
-## [Live Preview](https://aladdine.dev) 👀
+## [Live Preview](https://tuqeer-meer-code.github.io/my_portifolio.io/) 👀
 
 <img src="docs/images/mockups-1.png" width="70%"></img> <img src="docs/images/mockups-2.png" width="25%"></img>
 
@@ -24,7 +24,7 @@ Flutter Portfolio – by [@tuqeer khan](https://github.com/Tuqeer-meer-code)
 
 If you haven't already, install [Flutter](https://docs.flutter.dev/get-started/install)
 
-**1. [Fork](https://github.com/AladdineDev/portfolio/fork) and [clone](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository) this repository**
+**1. [Fork](https://github.com/Tuqeer-meer-code/my_portifolio.io/fork) and [clone](https://github.com/Tuqeer-meer-code/my_portifolio.io) this repository**
 
 **2. Enable your workflows**
 

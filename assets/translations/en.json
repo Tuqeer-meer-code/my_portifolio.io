@@ -63,11 +63,11 @@
     "experiences": [
         {
             "role": "Mobile App Developer",
-            "company": "Walt Disney Imagineering",
-            "description": "Development of an offline-first mobile snagging application for Disneyland Paris, streamlining information gathering for technical experts in the field and enhancing communication with maintenance services for problem-solving.",
+            "company": "Codelounge",
+            "description": "SENIOR FLUTTER DEVELOPER.\nCollaborate with cross-functional teams to define, design, and ship new features.Mentor junior developers and provide technical guidance and support.Ensure code quality through code reviews, unittests, and continuous integration.",
             "isPresent": false,
-            "startYear": 2022,
-            "endYear": 2023,
+            "startYear": 2021,
+            "endYear": 2024,
             "technologies": [
                 {
                     "name": "Flutter",
@@ -84,17 +84,9 @@
                     }
                 },
                 {
-                    "name": "Django",
+                    "name": "Swift",
                     "icon": {
-                        "codePoint": "0xeee7",
-                        "fontFamily": "BoxIcons",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/python.svg",
+                        "assetName": "assets/images/swift.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
@@ -114,13 +106,6 @@
                     }
                 },
                 {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/docker.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
                     "name": "AWS",
                     "icon": {
                         "codePoint": "0xeed1",
@@ -131,19 +116,18 @@
             ],
             "links": [
                 {
-                    "url": "https://sites.disney.com/waltdisneyimagineering/",
-                    "display": "Walt Disney Imagineering"
+                    "url": "https://codelounge.io/",
+                    "display": "codelounge.io"
                 }
             ]
         },
         {
             "role": "Mobile App Developer",
-            "company": "Solutions Multi Techniques",
-            "description": "Development of a Progressive Web App for security system technicians, enabling them to generate comprehensive PDF quotes. This allows for the immediate delivery of quotes to clients after their visit, thereby increasing the conversion rate.",
-            "startYear": 2022,
+            "company": "TechnoPrima",
+            "description": "Optimize application performance for maximum speed and scalability.Stay updated with the latest Flutter trends,tools, and technologies.Troubleshoot and debug issues to maintain application stability.Contribute to the overall software architecture and design discussions.",
+            "startYear": 2023,
             "startMonth": 1,
-            "endYear": 2022,
-            "endMonth": 2,
+            "endYear": 2024,
             "technologies": [
                 {
                     "name": "Flutter",
@@ -167,74 +151,23 @@
                     }
                 }
             ]
-        },
-        {
-            "role": "Web Developer",
-            "company": "Association FAIRE",
-            "description": "Development of the association's website, in collaboration with a group of developers. It provides visitors with the opportunity to learn more about the association and become members.\nTo date, the website has attracted over 10,000 visits.",
-            "startYear": 2021,
-            "startMonth": 5,
-            "endYear": 2021,
-            "endMonth": 6,
-            "technologies": [
-                {
-                    "name": "HTML",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/html-5.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "CSS",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/css3.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Javascript",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/javascript.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/mariadb.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://www.association-faire.fr",
-                    "display": "Association FAIRE"
-                }
-            ]
         }
     ],
     "present": "Present",
     "projects": [
         {
-            "name": "Portfolio",
-            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-            "url": "https://github.com/AladdineDev/portfolio#readme",
+            "name": "CEERTIF",
+            "description": "CEERTIF, 1st mobile application for the world of installers, agents and insurers in France.\nAutonomous and two-click account opening for your installers, inspectors, experts.\nIntuitive, multi-language platform, application training in just a few minutes.\nYour teams have a smarphone, zero investment in hardware, all updates are available in real time.\nYou only pay for what you use, opening unlimited accounts per company for all your employees.",
+            "url": "https://ceertif.com/en/",
+            "appStore": "https://apps.apple.com/pk/app/ceertifs/id1456381091",
+            "googlePlay": "https://play.google.com/store/apps/details?id=com.hexasoft.bch&hl=en&gl=US",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "fontPackage": "icons_plus",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/portfolio.png",
+            "screenshotPath": "assets/images/ceertif.png",
             "technologies": [
                 {
                     "name": "Flutter",
@@ -253,15 +186,15 @@
             ],
             "links": [
                 {
-                    "url": "https://brittanychiang.com",
-                    "display": "Inspired by Brittany Chiang"
+                    "url": "https://ceertif.com/en/",
+                    "display": "CEERTIF "
                 }
             ]
         },
         {
-            "name": "Learn Flow API",
-            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This REST API serves as an interface for the project's various clients, including Android, iOS, and Web. It notably offers authentication capabilities with JWT.",
-            "url": "https://github.com/AladdineDev/learnflow-api#readme",
+            "name": "WATT AUDIT",
+            "description": "WATT AUDIT has created a simple application for you for a paperless solution! Appointment making - Quote - Electronic signature - Time-stamped installation and commissioning report - Saving documents in the application.",
+            "url": "https://wattaudit.com/",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",

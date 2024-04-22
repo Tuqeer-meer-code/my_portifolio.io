@@ -2,7 +2,7 @@
 
 # Portfolio 💙 [![Stars](https://img.shields.io/github/stars/AladdineDev/portfolio?style=flat-square)](https://github.com/AladdineDev/portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/AladdineDev/portfolio?style=flat-square)](https://github.com/AladdineDev/portfolio/forks?include=active&page=1&period=&sort_by=stargazer_counts)
 
-Flutter Portfolio – by [@AladdineDev](https://github.com/AladdineDev)
+Flutter Portfolio – by [@tuqeer khan](https://github.com/Tuqeer-meer-code)
 
 [![Flutter 3](https://img.shields.io/badge/Flutter-3.19-02569b.svg?style=flat-square&logo=flutter&logoColor=13b9fd)](https://flutter.dev/)
 [![Dart 3](https://img.shields.io/badge/Dart-3.3-0175c2.svg?style=flat-square&logo=dart&logoColor=13b9fd)](https://dart.dev/)

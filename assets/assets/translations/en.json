@@ -86,7 +86,7 @@
                 {
                     "name": "Swift",
                     "icon": {
-                        "assetName": "assets/images/swift.svg",
+                        "assetName": "assets/images/logos/apple/swiftui.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
@@ -177,6 +177,41 @@
                     }
                 },
                 {
+                    "name": "Swift",
+                    "icon": {
+                        "assetName": "assets/images/logos/apple/swiftui.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Web Sockets",
+                    "icon": {
+                        "assetName": "assets/images/logos/utilities/json-web-token.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "SQLite",
+                    "icon": {
+                        "assetName": "assets/images/logos/networks/my-sql.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/firebase.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
                     "name": "Dart",
                     "icon": {
                         "assetName": "assets/images/logos/other/dart.svg",
@@ -188,6 +223,56 @@
                 {
                     "url": "https://ceertif.com/en/",
                     "display": "CEERTIF "
+                }
+            ]
+        },
+        {
+            "name": "Mohameek",
+            "description": "WATT AUDIT has created a simple application for you for a paperless solution! Appointment making - Quote - Electronic signature - Time-stamped installation and commissioning report - Saving documents in the application.",
+            "url": "https://wattaudit.com/",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/learnflow-api.png",
+            "technologies": [
+                {
+                    "name": "Node.js",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/nodejs.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Express",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/express-js.svg",
+                        "fontPackage": "icons_plus",
+                        "color": "0xffffffff"
+                    }
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/typescript.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "MongoDB",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/mongodb.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Docker",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/docker.svg",
+                        "fontPackage": "icons_plus"
+                    }
                 }
             ]
         },

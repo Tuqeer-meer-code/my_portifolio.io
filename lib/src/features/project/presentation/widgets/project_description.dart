@@ -22,8 +22,7 @@ class ProjectDescription extends ConsumerWidget {
           children: [
             Text(
               projectName != null ? "$projectName " : "",
-              style: theme.textTheme.titleMedium
-                  ?.copyWith(fontWeight: FontWeight.bold),
+              style: theme.textTheme.titleMedium?.copyWith(fontWeight: FontWeight.bold),
             ),
             const Icon(Icons.open_in_new),
           ],

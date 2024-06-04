@@ -157,7 +157,7 @@
     "projects": [
         {
             "name": "CEERTIF",
-            "description": "CEERTIF, 1st mobile application for the world of installers, agents and insurers in France.\nAutonomous and two-click account opening for your installers, inspectors, experts.\nIntuitive, multi-language platform, application training in just a few minutes.\nYour teams have a smarphone, zero investment in hardware, all updates are available in real time.\nYou only pay for what you use, opening unlimited accounts per company for all your employees.",
+            "description": "CEERTIF, launched in February 2021, empowers construction and energy renovation professionals with real-time site status updates. Installers benefit from streamlined compliance checks, saving time and avoiding disputes with clients. CEERTIF's advanced features include geolocated, blockchain-enabled media submissions and secure file management, ensuring authenticity and integrity. For agents, CEERTIF simplifies file management and compliance checks, facilitating efficient site monitoring and dispute resolution. Its offline functionality and file creation tools ensure seamless operations in areas with weak network coverage. CEERTIF prioritizes data security, guaranteeing confidentiality and compliance with privacy regulations. Experience CEERTIF's transformative capabilities for enhanced efficiency and accountability in construction management.",
             "url": "https://ceertif.com/en/",
             "appStore": "https://apps.apple.com/pk/app/ceertifs/id1456381091",
             "googlePlay": "https://play.google.com/store/apps/details?id=com.hexasoft.bch&hl=en&gl=US",
@@ -236,7 +236,7 @@
         },
         {
             "name": "Mohameek",
-            "description": "WATT AUDIT has created a simple application for you for a paperless solution! Appointment making - Quote - Electronic signature - Time-stamped installation and commissioning report - Saving documents in the application.",
+            "description": "Mohameek is a comprehensive app connecting users with lawyers, translators, and firms seamlessly. It offers convenient booking, secure payments, and communication via video calls or messaging.The app facilitates easy booking for end users, enabling appointments with lawyers and translators based on their availability.Lawyers and translators register through their respective firms, ensuring credibility and quality service provision. Lawyers can manage their availability schedules for user convenience.Firms with exceptional reviews are highlighted, allowing users to choose reliable and competent service providers.Users can securely book appointments and make payments within the app, ensuring a seamless transaction experience.Online meetings are facilitated through in-app video links, promoting smooth communication and collaboration.After meetings, users can provide ratings, offering valuable feedback for firm and staff profiles.Additionally, the app now features integrated payment methods for enhanced transaction convenience and security, while being hosted on AWS for scalability and reliability.",
             "url": "https://wattaudit.com/",
             "icon": {
                 "codePoint": "0xefb7",
@@ -244,41 +244,54 @@
                 "fontPackage": "icons_plus",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/learnflow-api.png",
+            "screenshotPath": "assets/images/mohameek.png",
             "technologies": [
                 {
-                    "name": "Node.js",
+                    "name": "Flutter",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/nodejs.svg",
+                        "assetName": "assets/images/logos/software-development/flutter.png",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "Express",
+                    "name": "Swift",
                     "icon": {
-                        "assetName": "assets/images/logos/other/express-js.svg",
-                        "fontPackage": "icons_plus",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "TypeScript",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/typescript.svg",
+                        "assetName": "assets/images/logos/apple/swiftui.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "MongoDB",
+                    "name": "Kotlin",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/mongodb.svg",
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "Docker",
+                    "name": "Web Sockets",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/docker.svg",
+                        "assetName": "assets/images/logos/utilities/json-web-token.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "SQLite",
+                    "icon": {
+                        "assetName": "assets/images/logos/networks/my-sql.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/firebase.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/dart.svg",
                         "fontPackage": "icons_plus"
                     }
                 }

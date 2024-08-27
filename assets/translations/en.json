@@ -299,7 +299,7 @@
         },
         {
             "name": "WATT AUDIT",
-            "description": "WATT AUDIT has created a simple application for you for a paperless solution! Appointment making - Quote - Electronic signature - Time-stamped installation and commissioning report - Saving documents in the application.",
+            "description": "WATT AUDIT, with more than 2,000 company employees in the field, has created a simple application to provide a paperless solution! The app supports appointment scheduling, generating quotes, electronic signatures, time-stamped installation and commissioning reports, and document storage—all within the application.",
             "url": "https://wattaudit.com/",
             "icon": {
                 "codePoint": "0xefb7",
@@ -345,19 +345,33 @@
                         "fontPackage": "icons_plus"
                     }
                 }
+            ],
+            "links": [
+                {
+                    "url": "https://wattaudit.com/",
+                    "display": "WATTAUDIT"
+                },
+                {
+                    "url": "https://apps.apple.com/in/app/watt-audit/id6449857114",
+                    "display": "APPSTORE LINK"
+                },
+                {
+                    "url": "https://play.google.com/store/apps/details?id=io.hexasoft.ceert_audit",
+                    "display": "GOOGLE PLAYSTORE"
+                }
             ]
         },
         {
-            "name": "Learn Flow Backoffice",
-            "description": "This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "name": "Nanshee",
+            "description": "Nanshee is a powerful app designed to empower women and enhance their safety. It allows users to securely add and store pictures, scans, audio recordings, screen recordings, WhatsApp chats, and entire galleries. All uploaded data is securely stored on the Tezos blockchain, ensuring tamper-proof protection. In times of danger, simply press the danger button to instantly notify your chosen angels and lawyers, sharing your location to ensure help is on the way.",
+            "url": "https://github.com/nansheapp/nanshe_new_mobile_app",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "fontPackage": "icons_plus",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "screenshotPath": "assets/images/nanshee.png",
             "technologies": [
                 {
                     "name": "Flutter",

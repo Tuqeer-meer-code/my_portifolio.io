@@ -307,41 +307,54 @@
                 "fontPackage": "icons_plus",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/learnflow-api.png",
+            "screenshotPath": "assets/images/audit.png",
             "technologies": [
                 {
-                    "name": "Node.js",
+                    "name": "Flutter",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/nodejs.svg",
+                        "assetName": "assets/images/logos/software-development/flutter.png",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "Express",
+                    "name": "Swift",
                     "icon": {
-                        "assetName": "assets/images/logos/other/express-js.svg",
-                        "fontPackage": "icons_plus",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "TypeScript",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/typescript.svg",
+                        "assetName": "assets/images/logos/apple/swiftui.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "MongoDB",
+                    "name": "Kotlin",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/mongodb.svg",
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "Docker",
+                    "name": "Web Sockets",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/docker.svg",
+                        "assetName": "assets/images/logos/utilities/json-web-token.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "SQLite",
+                    "icon": {
+                        "assetName": "assets/images/logos/networks/my-sql.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/firebase.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/dart.svg",
                         "fontPackage": "icons_plus"
                     }
                 }

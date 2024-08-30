@@ -234,6 +234,9 @@
                 }
             ]
         },
+
+
+
         {
             "name": "Mohameek",
             "description": "Mohameek is a comprehensive app connecting users with lawyers, translators, and firms seamlessly. It offers convenient booking, secure payments, and communication via video calls or messaging.The app facilitates easy booking for end users, enabling appointments with lawyers and translators based on their availability.Lawyers and translators register through their respective firms, ensuring credibility and quality service provision. Lawyers can manage their availability schedules for user convenience.Firms with exceptional reviews are highlighted, allowing users to choose reliable and competent service providers.Users can securely book appointments and make payments within the app, ensuring a seamless transaction experience.Online meetings are facilitated through in-app video links, promoting smooth communication and collaboration.After meetings, users can provide ratings, offering valuable feedback for firm and staff profiles.Additionally, the app now features integrated payment methods for enhanced transaction convenience and security, while being hosted on AWS for scalability and reliability.",
@@ -375,6 +378,71 @@
             ]
         },
         {
+            "name": "SnapFix",
+            "description": "SNAPFIX combines AI and blockchain to provide unparalleled control and traceability of field operations while securing your data. The AI automatically detects anomalies and pinpoints their location, providing descriptions so you know exactly what to do next.",
+            "url": "http://snapfix.fr",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/3.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/flutter.png",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Swift",
+                    "icon": {
+                        "assetName": "assets/images/logos/apple/swiftui.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+               
+                {
+                    "name": "SQLite",
+                    "icon": {
+                        "assetName": "assets/images/logos/networks/my-sql.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/firebase.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/dart.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ],
+            "links": [
+              
+                {
+                    "url": "https://apps.apple.com/pk/app/snapfix/id6464482269",
+                    "display": "APPSTORE LINK"
+                }
+              
+            ]
+        },
+        {
             "name": "Nanshee",
             "description": "Nanshee is a powerful app designed to empower women and enhance their safety. It allows users to securely add and store pictures, scans, audio recordings, screen recordings, WhatsApp chats, and entire galleries. All uploaded data is securely stored on the Tezos blockchain, ensuring tamper-proof protection. In times of danger, simply press the danger button to instantly notify your chosen angels and lawyers, sharing your location to ensure help is on the way.",
             "url": "https://github.com/nansheapp/nanshe_new_mobile_app",
@@ -403,99 +471,71 @@
             ]
         },
         {
-            "name": "GSB-Frais",
-            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
+            "name": "INSSITU",
+            "description": "INSSITU simplifies construction and renovation projects by ensuring compliance with regulations, managing risks, and optimizing energy efficiency. Access certified Technical Control Offices, explore government incentives, and streamline project documentation.",
+            "url": "http://snapfix.fr",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "fontPackage": "icons_plus",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/gsb-frais.png",
+            "screenshotPath": "assets/images/2.png",
             "technologies": [
                 {
-                    "name": "Symfony",
+                    "name": "Flutter",
                     "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome",
+                        "assetName": "assets/images/logos/software-development/flutter.png",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "PHP",
+                    "name": "Swift",
                     "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons",
+                        "assetName": "assets/images/logos/apple/swiftui.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "Bootstrap",
+                    "name": "Kotlin",
                     "icon": {
-                        "assetName": "assets/images/logos/other/bootstrap.svg",
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+               
+                {
+                    "name": "SQLite",
+                    "icon": {
+                        "assetName": "assets/images/logos/networks/my-sql.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "MariaDB",
+                    "name": "Firebase",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/mariadb.svg",
+                        "assetName": "assets/images/logos/other/firebase.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "Docker",
+                    "name": "Dart",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/docker.svg",
+                        "assetName": "assets/images/logos/other/dart.svg",
                         "fontPackage": "icons_plus"
                     }
                 }
-            ]
-        },
-        {
-            "name": "GSB-RV-Visiteur-Serveur",
-            "description": "The GSB project's REST API serves as an interface for various project clients, including Android, Desktop, and Web applications.",
-            "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "fontPackage": "icons_plus",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-rv-visiteur-serveur.png",
-            "technologies": [
+            ],
+            "links": [
+              
                 {
-                    "name": "Flask",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/flask.svg",
-                        "fontPackage": "icons_plus",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/python.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/mariadb.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/docker.svg",
-                        "fontPackage": "icons_plus"
-                    }
+                    "url": "https://apps.apple.com/pk/app/snapfix/id6464482269",
+                    "display": "APPSTORE LINK"
                 }
+              
             ]
         }
+    
     ],
     "languages": [
         {
@@ -506,21 +546,13 @@
                 "assetName": "assets/images/logos/flags/united-states-of-america.svg",
                 "fontPackage": "icons_plus"
             }
-        },
-        {
-            "code": "fr",
-            "name": "French",
-            "nativeName": "Français",
-            "icon": {
-                "assetName": "assets/images/logos/flags/france.svg",
-                "fontPackage": "icons_plus"
-            }
         }
+       
     ],
     "bottomBanner": {
-        "message": "Open source portfolio -",
+        "message": "TUQEER KHAN",
         "displayLink": "Fork it",
-        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+        "linkUrl": "https://github.com/Tuqeer-meer-code/my_portifolio.io#readme"
     },
     "portfolio": "Portfolio",
     "homeSectionTitle": "Home",

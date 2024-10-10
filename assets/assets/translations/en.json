@@ -52,11 +52,11 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1isIaVrw-Y6GiWLI3D_pmTZjtLjuILgAJ/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1T8VrvoPadbLgnN1Jj9xqJbspOD3R5xK3/view?usp=sharing"
         },
         {
             "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/1isIaVrw-Y6GiWLI3D_pmTZjtLjuILgAJ/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1T8VrvoPadbLgnN1Jj9xqJbspOD3R5xK3/view?usp=sharing"
         }
     ],
     "aboutDescription": "Hi! I'm Tuqeer Khan, an apprentice developer specializing in mobile app development. Passionate about the mobile ecosystem, Experienced in Authentication | REST API | Offline Database | UI Design | State Management | Web Sockets.\nI aspire to put my skills to work on inspiring and challenging projects.",
@@ -155,6 +155,84 @@
     ],
     "present": "Present",
     "projects": [
+      
+        {
+            "name": "WATT AUDIT",
+            "description": "WATT AUDIT, with more than 2,000 company employees in the field, has created a simple application to provide a paperless solution! The app supports appointment scheduling, generating quotes, electronic signatures, time-stamped installation and commissioning reports, and document storage—all within the application.",
+            "url": "https://wattaudit.com/",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/audit.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/flutter.png",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Swift",
+                    "icon": {
+                        "assetName": "assets/images/logos/apple/swiftui.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Web Sockets",
+                    "icon": {
+                        "assetName": "assets/images/logos/utilities/json-web-token.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "SQLite",
+                    "icon": {
+                        "assetName": "assets/images/logos/networks/my-sql.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/firebase.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/dart.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://wattaudit.com/",
+                    "display": "WATTAUDIT"
+                },
+                {
+                    "url": "https://apps.apple.com/in/app/watt-audit/id6449857114",
+                    "display": "APPSTORE LINK"
+                },
+                {
+                    "url": "https://play.google.com/store/apps/details?id=io.hexasoft.ceert_audit",
+                    "display": "GOOGLE PLAYSTORE"
+                }
+            ]
+        },
         {
             "name": "CEERTIF",
             "description": "CEERTIF, launched in February 2021, empowers construction and energy renovation professionals with real-time site status updates. Installers benefit from streamlined compliance checks, saving time and avoiding disputes with clients. CEERTIF's advanced features include geolocated, blockchain-enabled media submissions and secure file management, ensuring authenticity and integrity. For agents, CEERTIF simplifies file management and compliance checks, facilitating efficient site monitoring and dispute resolution. Its offline functionality and file creation tools ensure seamless operations in areas with weak network coverage. CEERTIF prioritizes data security, guaranteeing confidentiality and compliance with privacy regulations. Experience CEERTIF's transformative capabilities for enhanced efficiency and accountability in construction management.",
@@ -236,7 +314,6 @@
         },
 
 
-
         {
             "name": "Mohameek",
             "description": "Mohameek is a comprehensive app connecting users with lawyers, translators, and firms seamlessly. It offers convenient booking, secure payments, and communication via video calls or messaging.The app facilitates easy booking for end users, enabling appointments with lawyers and translators based on their availability.Lawyers and translators register through their respective firms, ensuring credibility and quality service provision. Lawyers can manage their availability schedules for user convenience.Firms with exceptional reviews are highlighted, allowing users to choose reliable and competent service providers.Users can securely book appointments and make payments within the app, ensuring a seamless transaction experience.Online meetings are facilitated through in-app video links, promoting smooth communication and collaboration.After meetings, users can provide ratings, offering valuable feedback for firm and staff profiles.Additionally, the app now features integrated payment methods for enhanced transaction convenience and security, while being hosted on AWS for scalability and reliability.",
@@ -297,83 +374,6 @@
                         "assetName": "assets/images/logos/other/dart.svg",
                         "fontPackage": "icons_plus"
                     }
-                }
-            ]
-        },
-        {
-            "name": "WATT AUDIT",
-            "description": "WATT AUDIT, with more than 2,000 company employees in the field, has created a simple application to provide a paperless solution! The app supports appointment scheduling, generating quotes, electronic signatures, time-stamped installation and commissioning reports, and document storage—all within the application.",
-            "url": "https://wattaudit.com/",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "fontPackage": "icons_plus",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/audit.png",
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/flutter.png",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Swift",
-                    "icon": {
-                        "assetName": "assets/images/logos/apple/swiftui.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Kotlin",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/kotlin.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Web Sockets",
-                    "icon": {
-                        "assetName": "assets/images/logos/utilities/json-web-token.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "SQLite",
-                    "icon": {
-                        "assetName": "assets/images/logos/networks/my-sql.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Firebase",
-                    "icon": {
-                        "assetName": "assets/images/logos/other/firebase.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/images/logos/other/dart.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://wattaudit.com/",
-                    "display": "WATTAUDIT"
-                },
-                {
-                    "url": "https://apps.apple.com/in/app/watt-audit/id6449857114",
-                    "display": "APPSTORE LINK"
-                },
-                {
-                    "url": "https://play.google.com/store/apps/details?id=io.hexasoft.ceert_audit",
-                    "display": "GOOGLE PLAYSTORE"
                 }
             ]
         },
@@ -458,6 +458,72 @@
                     "name": "Flutter",
                     "icon": {
                         "assetName": "assets/images/logos/software-development/flutter.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/dart.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ]
+        },
+        
+
+
+        {
+            "name": "ProperFit",
+            "description": "Experience a seamless shopping journey with our e-commerce app, featuring instant chat support, real-time push notifications, integrated video playback, and secure payments via Stripe.",
+            "url": "https://www.properfitclothing.com/",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/properfit.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/flutter.png",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Swift",
+                    "icon": {
+                        "assetName": "assets/images/logos/apple/swiftui.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Web Sockets",
+                    "icon": {
+                        "assetName": "assets/images/logos/utilities/json-web-token.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "SQLite",
+                    "icon": {
+                        "assetName": "assets/images/logos/networks/my-sql.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/firebase.svg",
                         "fontPackage": "icons_plus"
                     }
                 },

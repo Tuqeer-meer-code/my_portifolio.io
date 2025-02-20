@@ -36,13 +36,13 @@ jobs:
         id: set_base_href
         run: |
           if [[ -z "${{ vars.CNAME }}" ]]; then
-            echo "::set-output name=base_href::/${{ github.event.repository.name }}/"
+            echo "base_href=/${{ github.event.repository.name }}/" >> $GITHUB_ENV
           else
-            echo "::set-output name=base_href::/"
+            echo "base_href=/" >> $GITHUB_ENV
           fi
 
       - name: Build
-        run: flutter build web --web-renderer canvaskit --release --no-tree-shake-icons --base-href "${{ steps.set_base_href.outputs.base_href }}"
+        run: flutter build web --web-renderer canvaskit --release --no-tree-shake-icons --base-href "${{ env.base_href }}"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

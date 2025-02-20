@@ -9,6 +9,7 @@ import 'package:url_strategy/url_strategy.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   EasyLocalization.logger.enableBuildModes = [];
+  print("object");
   await EasyLocalization.ensureInitialized();
   setPathUrlStrategy();
   GoogleFonts.config.allowRuntimeFetching = false;

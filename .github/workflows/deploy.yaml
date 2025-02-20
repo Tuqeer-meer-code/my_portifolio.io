@@ -42,7 +42,7 @@ jobs:
           fi
 
       - name: Build
-  run: flutter build web --release --web-renderer html --no-tree-shake-icons --base-href "${{ env.base_href }}"
+        run: flutter build web --release --web-renderer html --no-tree-shake-icons --base-href "${{ env.base_href }}"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

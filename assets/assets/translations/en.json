@@ -52,11 +52,11 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1T8VrvoPadbLgnN1Jj9xqJbspOD3R5xK3/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1Cb2a_JbZ-IGtuMqPkTmY6Qpl3n7djQeP/view?usp=sharing"
         },
         {
             "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/1T8VrvoPadbLgnN1Jj9xqJbspOD3R5xK3/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1Cb2a_JbZ-IGtuMqPkTmY6Qpl3n7djQeP/view?usp=sharing"
         }
     ],
     "aboutDescription": "Hi! I'm Tuqeer Khan, an apprentice developer specializing in mobile app development. Passionate about the mobile ecosystem, Experienced in Authentication | REST API | Offline Database | UI Design | State Management | Web Sockets.\nI aspire to put my skills to work on inspiring and challenging projects.",
@@ -65,9 +65,9 @@
             "role": "Mobile App Developer",
             "company": "Codelounge",
             "description": "SENIOR FLUTTER DEVELOPER.\nCollaborate with cross-functional teams to define, design, and ship new features.Mentor junior developers and provide technical guidance and support.Ensure code quality through code reviews, unittests, and continuous integration.",
-            "isPresent": false,
-            "startYear": 2021,
-            "endYear": 2024,
+            "isPresent": true,
+            "startYear": 2023,
+            
             "technologies": [
                 {
                     "name": "Flutter",
@@ -123,11 +123,72 @@
         },
         {
             "role": "Mobile App Developer",
-            "company": "TechnoPrima",
+            "company": "Hexasoft",
             "description": "Optimize application performance for maximum speed and scalability.Stay updated with the latest Flutter trends,tools, and technologies.Troubleshoot and debug issues to maintain application stability.Contribute to the overall software architecture and design discussions.",
-            "startYear": 2023,
+            "startYear": 2022,
             "startMonth": 1,
-            "endYear": 2024,
+            "endYear": 2023,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/flutter.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/dart.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/firebase.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ]
+        }, {
+            "role": "Mobile App Developer",
+            "company": "Q3Logics",
+            "description": "Reduced app crash rates by 30% by debugging and optimizing performance for 3+ client apps.",
+            "startYear": 2021,
+            "startMonth": 1,
+            "endYear": 2021,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/flutter.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/dart.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/firebase.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ]
+        },
+        {
+            "role": "Mobile App Developer",
+            "company": "Techno Prima",
+            "description": "Built ProperFit (e-commerce app), increasing sales by 20% through personalized recommendations and secure payment flows.Developed PayPlayer (gaming app) with real-time betting features",
+            "startYear": 2021,
+            "startMonth": 6,
+            "endYear": 2021,
             "technologies": [
                 {
                     "name": "Flutter",
